@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088319561808",
+    "project_id": "bitterebeone-app",
+    "storage_bucket": "bitterebeone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088319561808:android:8d1dbb36dca11d38ca7155",
+        "android_client_info": {
+          "package_name": "com.example.bitterebeone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1kHNB2bCYzi5t70NHZZ4hlUqlPQRNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
